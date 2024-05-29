@@ -20,14 +20,14 @@ In this task, I developed a fraud detection model utilizing algorithms such as L
 For this project, I successfully implemented an AI model utilizing TF-IDF and classifiers like Naive Bayes, Logistic Regression, and Support Vector Machines to distinguish between spam and legitimate SMS messages, significantly improving message filtering and user experience.
 
 I'm excited to share the outcomes of all my tasks, and I encourage you to explore the respective project work in detail using the corresponding folders above containing both the source and main.py python executable.
-Additionally, you can watch my video demonstration of these tasks on my [LinkedIn]((https://linkedin.com/in/mhmmeddanishh/)).
+Additionally, you can watch my video demonstration of these tasks on my [LinkedIn]((https://linkedin.com/in/mhmmeddanish/)).
 
 Feel free to reach out if you have any questions or feedback.
 Sincerely Thank You for reviewing my internship work!
 
 ### Check out Video Demonstrations of these Projects and more on my LinkedIn:
 
-> [Take me there](https://linkedin.com/in/mhmmeddanishh/)
+> [Take me there](https://linkedin.com/in/mhmmeddanish/)
 
 Mohammed Danish Mohiuddin
-> Contact me @ [LinkedIn](https://linkedin.com/in/mhmmeddanishh/) | [Instagram](https://instagram.com/mhmmeddanishh) | [Email](mailto:dmohiuddin2@gmail.com)
+> Contact me @ [LinkedIn](https://linkedin.com/in/mhmmeddanish/) | [Instagram](https://instagram.com/mhmmeddanishh) | [Email](mailto:dmohiuddin2@gmail.com)
