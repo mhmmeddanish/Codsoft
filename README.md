@@ -27,7 +27,7 @@ Sincerely Thank You for reviewing my internship work!
 
 ### Check out Video Demonstrations of these Projects and more on my LinkedIn:
 
-> [Take me there]((https://linkedin.com/in/mhmmeddanishh/))
+> [Take me there](https://linkedin.com/in/mhmmeddanishh/)
 
 Mohammed Danish Mohiuddin
 > Contact me @ [LinkedIn](https://linkedin.com/in/mhmmeddanishh/) | [Instagram](https://instagram.com/mhmmeddanishh) | [Email](mailto:dmohiuddin2@gmail.com)
