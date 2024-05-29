@@ -54,7 +54,7 @@ This folder contains Python code for a movie genre prediction system using Multi
 
 ### Check out Video Demonstration of this Project on my LinkedIn:
 
-> [Take me there](https://linkedin.com/in/mhmmeddanish/)
+> [Take me there] (https://www.linkedin.com/posts/mhmmeddanish_machinelearning-naturallanguageprocessing-activity-7201396718871928832-eYoN?utm_source=share&utm_medium=member_desktop)
 
 ### Author
 
