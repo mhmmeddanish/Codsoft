@@ -93,10 +93,11 @@ The models were evaluated based on accuracy, precision, recall, and F1-score.
   - False Negatives: 1,015
 - Classification Report: Balanced approach with moderate performance in fraud detection.
 
-## How to Use
+### Check out Video Demonstration of this Project on my LinkedIn:
 
-To use this project, follow these steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
-   cd credit-card-fraud-detection
+> (https://www.linkedin.com/posts/mhmmeddanish_machinelearning-naturallanguageprocessing-activity-7201396718871928832-eYoN?utm_source=share&utm_medium=member_desktop)
+
+### Author
+
+Mohammed Danish Mohiuddin
+> Contact me @ [LinkedIn](https://linkedin.com/in/mhmmeddanish/) | [Instagram](https://instagram.com/mhmmeddanishh) | [Email](mailto:dmohiuddin2@gmail.com)
