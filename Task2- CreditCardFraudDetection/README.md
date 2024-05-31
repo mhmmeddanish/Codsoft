@@ -95,7 +95,7 @@ The models were evaluated based on accuracy, precision, recall, and F1-score.
 
 ### Check out Video Demonstration of this Project on my LinkedIn:
 
-> (https://www.linkedin.com/posts/mhmmeddanish_machinelearning-naturallanguageprocessing-activity-7201396718871928832-eYoN?utm_source=share&utm_medium=member_desktop)
+> [(https://www.linkedin.com/posts/mhmmeddanish_machinelearning-naturallanguageprocessing-activity-7201396718871928832-eYoN?utm_source=share&utm_medium=member_desktop)](https://www.linkedin.com/feed/update/urn:li:activity:7202431136365514752/)
 
 ### Author
 
