@@ -53,8 +53,11 @@ A Random Forest Classifier was trained and evaluated:
   - Recall: 42.75%
   - F1-score: 55.54%
 
+### Check out Video Demonstration of this Project on my LinkedIn:
+
+> [(https://www.linkedin.com/posts/mhmmeddanish_machinelearning-naturallanguageprocessing-activity-7201396718871928832-eYoN?utm_source=share&utm_medium=member_desktop)](https://www.linkedin.com/feed/update/urn:li:activity:7202431136365514752/)
+
 ### Author
 
-[Your Name]
-> Contact me @ [LinkedIn](#) | [GitHub](#) | [Email](#)
-
+Mohammed Danish Mohiuddin
+> Contact me @ [LinkedIn](https://linkedin.com/in/mhmmeddanish/) | [Instagram](https://instagram.com/mhmmeddanishh) | [Email](mailto:dmohiuddin2@gmail.com)
