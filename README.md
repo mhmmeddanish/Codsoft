@@ -14,10 +14,10 @@ For this task, I implemented an ML model using TF-IDF and Naive Bayes classifier
 ### Task Description: *Build a model to detect fraudulent credit card transactions. Use a dataset containing information about credit card transactions, and experiment with algorithms like Logistic Regression, Decision Trees, or Random Forests to classify transactions as fraudulent or legitimate.*
 In this task, I developed a fraud detection model utilizing algorithms such as Logistic Regression, Decision Trees, and Random Forests on a credit card transaction dataset. The code and output files are available in the respective project directory.
 
-## Task 3: Spam SMS Detection
+## Task 3: Customer Churn Prediction
 
-### Task Description: *Build an AI model that can classify SMS messages as spam or legitimate. Use techniques like TF-IDF or word embeddings with classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines to identify spam messages.*
-For this project, I successfully implemented an AI model utilizing TF-IDF and classifiers like Naive Bayes, Logistic Regression, and Support Vector Machines to distinguish between spam and legitimate SMS messages, significantly improving message filtering and user experience.
+### Task Description: *Develop a model to predict customer churn for a subscription-based service or business. Use historical customer data, including features like usage behavior and customer demographics, and try algorithms like Logistic Regression, Random Forests, or Gradient Boosting to predict churn.*
+For this project, I successfully implemented a Random Forest model to predict customer churn for a subscription-based service or business. By analyzing historical customer data, including usage behavior and demographics, the model identifies customers who are likely to churn. This enables businesses to take proactive measures to retain customers and improve overall customer retention rates.
 
 I'm excited to share the outcomes of all my tasks, and I encourage you to explore the respective project work in detail using the corresponding folders above containing both the source and main.py python executable.
 Additionally, you can watch my video demonstration of these tasks on my [LinkedIn]((https://linkedin.com/in/mhmmeddanish/)).
